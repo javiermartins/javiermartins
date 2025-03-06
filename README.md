@@ -24,7 +24,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<h3 style="text-align: center">⭐ Github stats</h3>
+<h3 align="center">⭐ Github stats</h3>
 
 <p align="center">
 <a href="https://github.com/javiermartins">
@@ -33,7 +33,7 @@
 </a>
 </p>
 
-<h3 style="text-align: center">🤝🏻 Connect with Me</h3>
+<h3 align="center">🤝🏻 Connect with Me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/javier-martin-serrano">
